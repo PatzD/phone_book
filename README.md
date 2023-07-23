@@ -7,6 +7,8 @@
 -surname
 -phone number
 -email
+
+3. Documentation for the API can be found on: ```https://app.swaggerhub.com/apis/ZAKOS123456/Phone_book/```
 ---------------------------
 ## Prerequisites
 1. Newest version of python installed
